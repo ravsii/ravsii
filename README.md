@@ -7,6 +7,8 @@ I like:
 - Showing icons
 - Leaving things unfinis
 
+_I promise I do a nice page one day_
+
 |Mostly Code In|Used previously|Would like to try one day|
 |--------------|---------------|-|
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" height="40">|<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" height="40">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" height="40">|

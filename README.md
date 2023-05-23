@@ -8,7 +8,7 @@ Other projects:
 
 Contributions:
 
-- [tcping](https://github.com/pouriyajamshidi/tcping) - _Currently active_ - A cross-platform ping program for `TCP` ports inspired by the Linux's ping utility.
+- [tcping](https://github.com/pouriyajamshidi/tcping) - _Currently contributing - A cross-platform ping program for `TCP` ports inspired by the Linux's ping utility.
 
 Old \ University stuff _(kind of honorable mentions)_:
 

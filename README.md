@@ -1,5 +1,3 @@
-# ravsii's profile
-
 Currently working on: [elgo](https://github.com/ravsii/elgo) - a go matchmaking module based on ELO rating.
 
 Other projects:

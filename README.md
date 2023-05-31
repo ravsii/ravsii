@@ -7,6 +7,7 @@ Other projects:
 Contributions:
 
 - [tcping](https://github.com/pouriyajamshidi/tcping) - _Currently contributing_ - A cross-platform ping program for `TCP` ports inspired by the Linux's ping utility.
+- [VSCode Mermaid Syntax](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight) - Improved supprort for multiple Gantt diagramm keywords
 
 Old \ University stuff _(kind of honorable mentions)_:
 

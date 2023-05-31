@@ -1,3 +1,13 @@
+<div align="center">
+
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+
+</div>
+
 Currently working on: [elgo](https://github.com/ravsii/elgo) - a go matchmaking module based on ELO rating.
 
 Other projects:
@@ -9,12 +19,6 @@ Contributions:
 - [tcping](https://github.com/pouriyajamshidi/tcping) - _Currently contributing_ - A cross-platform ping program for `TCP` ports inspired by the Linux's ping utility.
 - [VSCode Mermaid Syntax](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight) - Improved supprort for multiple Gantt diagramm keywords
 
-Old \ University stuff _(kind of honorable mentions)_:
-
-- [Tweeter](https://github.com/ravsii/tweeter) - small pet project done as a uni assignment. _(I just like the way it looks)_
-- 🇷🇺 [Airbyte + DBT integrations](https://github.com/ravsii/UDvIS) - a guide for students how to setup Docker, Airbyte, DBT and perform ETL(ELT) operations.
-- 🇷🇺 [Svelte installation guide](https://github.com/ravsii/svelte-installation-guide-ru) for newbies.
-
 ___
 
 ![Ravsii's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravsii&theme=city_lights&size_weight=0.5&count_weight=0.5&layout=compact&bg_color=FFFFFF00&count_private=true&langs_count=6)
@@ -23,3 +27,10 @@ ___
 ___
 
 Recently switched to [<img src="https://helix-editor.com/logo.svg" style="width:12px"> Helix](https://helix-editor.com/). Configs available [here](https://github.com/ravsii/.helix)
+
+Old \ University stuff _(kind of honorable mentions)_:
+
+- [Tweeter](https://github.com/ravsii/tweeter) - small pet project done as a uni assignment. _(I just like the way it looks)_
+- 🇷🇺 [Airbyte + DBT integrations](https://github.com/ravsii/UDvIS) - a guide for students how to setup Docker, Airbyte, DBT and perform ETL(ELT) operations.
+- 🇷🇺 [Svelte installation guide](https://github.com/ravsii/svelte-installation-guide-ru) for newbies.
+

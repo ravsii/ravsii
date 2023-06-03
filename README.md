@@ -17,6 +17,7 @@ Contributions:
 - [tcping](https://github.com/pouriyajamshidi/tcping) - _Currently contributing_
 - [VSCode Mermaid Syntax](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight) - Add support for multiple Gantt diagramm keywords
 
+Looking for projects to contribute to, mostly Go and Rust.
 ___
 
 ![Ravsii's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravsii&theme=city_lights&size_weight=0.5&count_weight=0.5&layout=compact&bg_color=FFFFFF00&count_private=true&langs_count=6)
@@ -25,7 +26,6 @@ ___
 ___
 
 Recently switched to [<img src="https://helix-editor.com/logo.svg" style="width:12px"> Helix](https://helix-editor.com/). Configs available [here](https://github.com/ravsii/.helix)
-Looking for projects to contribute to, mostly Go and Rust.
 
 Old \ University stuff _(kind of honorable mentions)_:
 

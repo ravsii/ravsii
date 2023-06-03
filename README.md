@@ -25,6 +25,7 @@ ___
 ___
 
 Recently switched to [<img src="https://helix-editor.com/logo.svg" style="width:12px"> Helix](https://helix-editor.com/). Configs available [here](https://github.com/ravsii/.helix)
+Looking for projects to contribute to, mostly Go and Rust.
 
 Old \ University stuff _(kind of honorable mentions)_:
 

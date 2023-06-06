@@ -6,7 +6,9 @@
 
 </div>
 
-Currently working on: [elgo](https://github.com/ravsii/elgo) - a go matchmaking module based on ELO rating.
+Currently working on: 
+* [elgo](https://github.com/ravsii/elgo) - a go matchmaking module based on ELO rating.
+* [tree-sitter-d2](https://github.com/ravsii/tree-sitter-d2) - trying to understand how to build grammars correctly (and I didn't like the existing one)
 
 Other projects:
 

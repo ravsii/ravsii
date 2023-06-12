@@ -23,7 +23,7 @@ Contributions:
 Looking for projects to contribute to, mostly Go and Rust.
 ___
 
-![Ravsii's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravsii&theme=city_lights&size_weight=0.5&count_weight=0.5&layout=compact&bg_color=FFFFFF00&count_private=true&langs_count=6)
+![Ravsii's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravsii&theme=city_lights&size_weight=0.5&count_weight=0.5&layout=compact&bg_color=FFFFFF00&count_private=true&langs_count=6&hide=html,c,php,css,java,smarty)
 ![Ravsii's GitHub state](https://github-readme-stats.vercel.app/api?username=ravsii&count_private=true&show_icons=true&theme=city_lights&include_all_commits=true&line_height=20&bg_color=FFFFFF00)
 
 ___

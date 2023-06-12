@@ -9,7 +9,7 @@
 Currently working on: 
 * [elgo](https://github.com/ravsii/elgo) (Go) - a go matchmaking module based on ELO rating.
 * [tree-sitter-d2](https://github.com/ravsii/tree-sitter-d2) - trying to understand how to build grammars correctly (and I didn't like the existing one)
-* [typer](https://github.com/ravsii/typer) (Rust) - Keyboard practice tool, something like https://www.keybr.com/
+* [typer](https://github.com/ravsii/typer) (Rust) - Keyboard practice tool, something like https://www.keybr.com/ (just started)
 
 Other projects:
 

@@ -11,16 +11,17 @@ Currently working on:
 * [tree-sitter-d2](https://github.com/ravsii/tree-sitter-d2) - trying to understand how to build grammars correctly (and I didn't like the existing one)
 * [typer](https://github.com/ravsii/typer) (Rust) - Keyboard practice tool, something like https://www.keybr.com/ (just started)
 
-Other projects:
+Finished projects:
 
 - [Textra](https://github.com/ravsii/textra) [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go) - Struct metadata extractor (mainly to json).
 
 Contributions:
 
-- [tcping](https://github.com/pouriyajamshidi/tcping) - _Currently contributing_
-- [VSCode Mermaid Syntax](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight) - Add support for multiple Gantt diagramm keywords
+- [tcping](https://github.com/pouriyajamshidi/tcping)
+- [VSCode Mermaid Syntax](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight)
 
 Looking for projects to contribute to, mostly Go and Rust.
+
 ___
 
 ![Ravsii's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravsii&theme=city_lights&size_weight=0.5&count_weight=0.5&layout=compact&bg_color=FFFFFF00&count_private=true&langs_count=6&hide=html,c,php,css,java,smarty)

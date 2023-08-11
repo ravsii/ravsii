@@ -20,7 +20,6 @@ Contributions:
 - [tcping](https://github.com/pouriyajamshidi/tcping)
 - [VSCode Mermaid Syntax](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight)
 
-Looking for projects to contribute to, mostly Go and Rust.
 ___
 
 Recently switched to [<img src="https://helix-editor.com/logo.svg" style="width:12px"> Helix](https://helix-editor.com/). Configs available [here](https://github.com/ravsii/.helix)

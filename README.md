@@ -3,6 +3,7 @@ Currently working on:
 
 Stale:
 * [elgo](https://github.com/ravsii/elgo) (Go) - a go matchmaking module based on ELO rating.
+* [type](https://github.com/ravsii/typer) (Rust) - typing practice, like keybr / monkeytype. First Rust project
 * [tree-sitter-d2](https://github.com/ravsii/tree-sitter-d2) - trying to understand how to build grammars correctly (and I didn't like the existing one)
 
 Finished projects:

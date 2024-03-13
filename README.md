@@ -1,8 +1,8 @@
 Currently working on: 
-* [minigun](https://github.com/ravsii/minigun) - vim-like terminal text editor
-* [type](https://github.com/ravsii/typer) (Rust) - typing practice, like keybr / monkeytype. First Rust project
+* [better-leetcode](https://github.com/ravsii/better-leetcode) (TS) - vscode-leetcode improved
 
 Stale:
+* [type](https://github.com/ravsii/typer) (Rust) - typing practice, like keybr / monkeytype. First Rust project
 * [elgo](https://github.com/ravsii/elgo) (Go) - a go matchmaking module based on ELO rating.
 * [tree-sitter-d2](https://github.com/ravsii/tree-sitter-d2) - trying to understand how to build grammars correctly (and I didn't like the existing one)
 

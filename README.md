@@ -1,5 +1,5 @@
 Currently working on: 
-* [tree-sitter-d2](https://github.com/ravsii/tree-sitter-d2) - tree-sitter grammar for [d2 lang](https://d2lang.com/) (and I didn't like the existing one)
+* [tree-sitter-d2](https://github.com/ravsii/tree-sitter-d2) - tree-sitter grammar for [d2 lang](https://d2lang.com/)
 
 Stale:
 * [minigun](https://github.com/ravsii/minigun) - vim-like terminal text editor

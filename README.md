@@ -1,9 +1,9 @@
 Currently working on: 
 * [tree-sitter-d2](https://github.com/ravsii/tree-sitter-d2) - tree-sitter grammar for [d2 lang](https://d2lang.com/)
+* [qType](https://github.com/ravsii/qType) (Rust) - typing practice, like keybr / monkeytype. First Rust project
 
 Stale:
 * [minigun](https://github.com/ravsii/minigun) - vim-like terminal text editor
-* [typer](https://github.com/ravsii/typer) (Rust) - typing practice, like keybr / monkeytype. First Rust project
 * [elgo](https://github.com/ravsii/elgo) (Go) - a go matchmaking module based on ELO rating.
    [better-leetcode](https://github.com/ravsii/better-leetcode) (TS) - vscode-leetcode improved
 

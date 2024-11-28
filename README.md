@@ -5,7 +5,7 @@ Currently working on:
 Stale:
 * [minigun](https://github.com/ravsii/minigun) - vim-like terminal text editor
 * [elgo](https://github.com/ravsii/elgo) (Go) - a go matchmaking module based on ELO rating.
-   [better-leetcode](https://github.com/ravsii/better-leetcode) (TS) - vscode-leetcode improved
+* [better-leetcode](https://github.com/ravsii/better-leetcode) (TS) - vscode-leetcode improved
 
 Finished projects:
 

@@ -1,3 +1,6 @@
+Currently working on: 
+- [sorted](https://github.com/ravsii/sorted) - Go linter that keeps everything in your code alphabetically sorted
+
 Finished projects / On maintenance:
 
 - [Textra](https://github.com/ravsii/textra) [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go) - Struct metadata extractor (mainly to json).

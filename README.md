@@ -4,7 +4,8 @@ Currently working on:
 Finished projects / On maintenance:
 
 - [Textra](https://github.com/ravsii/textra) [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go) - Struct metadata extractor (mainly to json).
-- [tree-sitter-d2](https://github.com/ravsii/tree-sitter-d2) - tree-sitter grammar for [d2 lang](https://d2lang.com/)
+- [tree-sitter-d2](https://github.com/ravsii/tree-sitter-d2) - tree-sitter grammar for [d2](https://d2lang.com/)
+- [forcealias](https://github.com/ravsii/forcealias) - Go linter that enforces specific import aliases. Unfortunately, I found [importas](https://github.com/julz/importas) that does exactly the same and is already in golangci-lint
 
 Contributions:
 

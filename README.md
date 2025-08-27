@@ -1,5 +1,6 @@
 Currently working on: 
-- [sorted](https://github.com/ravsii/sorted) - Go linter that keeps everything in your code alphabetically sorted
+- [timer.nvim](https://github.com/ravsii/timer.nvim) - Simple timer manager focused on extensibility for Neovim
+
 
 Finished projects / On maintenance:
 
@@ -20,6 +21,7 @@ Stale:
 * [elgo](https://github.com/ravsii/elgo) (Go) - a go matchmaking module based on ELO rating.
 * [qType](https://github.com/ravsii/qType) (Rust) - typing practice, like keybr / monkeytype.
 * [better-leetcode](https://github.com/ravsii/better-leetcode) (TS) - vscode-leetcode improved
+* [sorted](https://github.com/ravsii/sorted) - Go linter that keeps everything in your code alphabetically sorted
 
 Old \ University stuff _(kind of honorable mentions)_:
 

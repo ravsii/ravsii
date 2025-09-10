@@ -1,5 +1,5 @@
 Currently working on: 
-- [timer.nvim](https://github.com/ravsii/timer.nvim) - Simple timer manager focused on extensibility for Neovim
+- [timers.nvim](https://github.com/ravsii/timer.nvim) - Simple timer manager focused on extensibility for Neovim
 
 
 Finished projects / On maintenance:

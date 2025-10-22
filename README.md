@@ -1,10 +1,8 @@
 ## 🧩 About
 
-- Passionate about Go, Neovim, and tooling.
-- I like building small, focused developer tools and language integrations.
-- Mostly working with Go and Lua. Learning Rust. Could do some TypeScript or Python.
-
----
+- 💡 Passionate about Go, Neovim, and tooling.
+- ⚙️ I like building small, focused developer tools and language integrations.
+- 📦 Mostly working with Go and Lua. Learning Rust. Could do some TypeScript or Python.
 
 ## 🚀 Finished Projects / On Maintenance
 
@@ -22,8 +20,6 @@
 * [**tcping**](https://github.com/pouriyajamshidi/tcping)
 * [**VSCode Mermaid Syntax Highlight**](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight)
 * [**mockery**](https://github.com/vektra/mockery)
-
----
 
 ## 💤 Stale / Paused / Old Projects
 

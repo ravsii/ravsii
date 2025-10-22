@@ -7,12 +7,11 @@
 ## 🚀 Finished Projects / On Maintenance
 
 * [**Textra**](https://github.com/ravsii/textra) - Struct metadata extractor (mainly to JSON). [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go) ![GitHub Repo stars](https://img.shields.io/github/stars/ravsii/textra?style=flat-square)
-* [**tree-sitter-d2**](https://github.com/ravsii/tree-sitter-d2) - [tree-sitter](https://tree-sitter.github.io/tree-sitter/) grammar for [D2](https://d2lang.com/). ![GitHub Repo stars](https://img.shields.io/github/stars/ravsii/tree-sitter-d2?style=flat-square) 
 
-## ✨ My Neovim Plugins
-
-* [**timers.nvim**](https://github.com/ravsii/timer.nvim) - Simple, extensible timer manager for Neovim. ![GitHub Repo stars](https://img.shields.io/github/stars/ravsii/timer.nvim?style=flat-square) 
-* [**nvim-dap-envfile**](https://github.com/ravsii/nvim-dap-envfile) - Add VSCode-like `envFile` support to [nvim-dap](https://github.com/mfussenegger/nvim-dap). ![GitHub Repo stars](https://img.shields.io/github/stars/ravsii/nvim-dap-envfile?style=flat-square) 
+* ✨ Neovim Plugins
+  * [**tree-sitter-d2**](https://github.com/ravsii/tree-sitter-d2) - [tree-sitter](https://tree-sitter.github.io/tree-sitter/) grammar for [D2](https://d2lang.com/). Works as a standalone grammar and as a plugin for Neovim. ![GitHub Repo stars](https://img.shields.io/github/stars/ravsii/tree-sitter-d2?style=flat-square) 
+  * [**timers.nvim**](https://github.com/ravsii/timer.nvim) - Simple, extensible timer manager for Neovim. ![GitHub Repo stars](https://img.shields.io/github/stars/ravsii/timer.nvim?style=flat-square) 
+  * [**nvim-dap-envfile**](https://github.com/ravsii/nvim-dap-envfile) - Add VSCode-like `envFile` support to [nvim-dap](https://github.com/mfussenegger/nvim-dap). ![GitHub Repo stars](https://img.shields.io/github/stars/ravsii/nvim-dap-envfile?style=flat-square) 
 
 ## 🤝 Contributions
 

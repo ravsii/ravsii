@@ -28,8 +28,8 @@
 * [**qType**](https://github.com/ravsii/qType) — Typing practice app (Rust), inspired by keybr / monkeytype.
 * [**better-leetcode**](https://github.com/ravsii/better-leetcode) — Improved VSCode LeetCode experience (TypeScript).
 * [**sorted**](https://github.com/ravsii/sorted) — Go linter that keeps your code alphabetically sorted.
-   [**forcealias**](https://github.com/ravsii/forcealias) — Go linter enforcing specific import aliases.
-  *(Found [importas](https://github.com/julz/importas) which does the same and is part of golangci-lint.)*
+* [**forcealias**](https://github.com/ravsii/forcealias) — Go linter enforcing specific import aliases.
+  * Found [importas](https://github.com/julz/importas) which does the same and is part of golangci-lint, so this was abandoned.
 * [**Tweeter**](https://github.com/ravsii/tweeter) — Pet project built for a uni assignment.
 * 🇷🇺 [**Airbyte + DBT Integrations**](https://github.com/ravsii/UDvIS) — A student guide for setting up Docker, Airbyte, DBT, and performing ETL/ELT operations.
 * 🇷🇺 [**Svelte Installation Guide**](https://github.com/ravsii/svelte-installation-guide-ru) — Step-by-step setup guide for beginners.

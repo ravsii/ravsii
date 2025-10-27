@@ -22,9 +22,10 @@
 
 ## Contributions
 
-* [**tcping**](https://github.com/pouriyajamshidi/tcping)
+* [**tcping**](https://github.com/pouriyajamshidi/tcping) [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) 
 * [**VSCode Mermaid Syntax Highlight**](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight)
-* [**mockery**](https://github.com/vektra/mockery)
+* [**mockery**](https://github.com/vektra/mockery) [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) 
+* [**godoc-lint**](https://github.com/godoc-lint/godoc-lint) [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) 
 
 ## Stale / Paused / Old Projects
 

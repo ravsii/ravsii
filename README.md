@@ -9,6 +9,7 @@
 ### Ongoing projects
 
 * [**rlox**](https://github.com/ravsii/rlox) [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) - Lox language implementation. Guided by the beatiful book [**Crafting Interpreters**](https://craftinginterpreters.com/)
+* [**wami**](https://github.com/ravsii/wami) [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) - "What Are My Imports?" is an import analysis tool for Go projects that helps you find and analyze import inconsistencies and other issues in your codebase. [![GitHub Repo stars](https://img.shields.io/github/stars/ravsii/wami?style=flat-square)](https://github.com/ravsii/wami/stargazers)
 
 ### Finished / On Maintenance
 
